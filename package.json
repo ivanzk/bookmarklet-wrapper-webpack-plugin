@@ -1,0 +1,17 @@
+{
+  "name": "bookmarklet-wrapper-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Wraps output file in IIFE and adds 'javascript:' prefix",
+  "main": "index.js",
+  "module": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanzk/bookmarklet-wrapper-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack plugin",
+    "bookmarklet"
+  ],
+  "author": "ivanzk",
+  "license": "MIT"
+}
