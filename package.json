@@ -1,6 +1,6 @@
 {
   "name": "bookmarklet-wrapper-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps output file in IIFE and adds 'javascript:' prefix",
   "main": "index.js",
   "module": "index.js",
