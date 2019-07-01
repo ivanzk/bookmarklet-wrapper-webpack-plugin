@@ -13,7 +13,7 @@ Works only in production mode.
 ## Installation
 
 ```
-npm install bookmarklet-wrapper-webpack-plugin
+npm install --save-dev bookmarklet-wrapper-webpack-plugin
 ```
 
 ## Usage
